@@ -1,0 +1,1 @@
+Practicing dbt standards using Snowflake + dbt + Preset
